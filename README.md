@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jayen! Passionate Cyber Security Analyst</h1>
+<h1>Hi, I'm Jayden! Passionate Cyber Security Analyst</h1>
 
 <h2>👨‍💻 Cyber Security  Projects:</h2>
 
